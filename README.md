@@ -7,6 +7,6 @@
 `git config --global user.name`
 `git clone [nome-repo-aqui]`
 
-`git add .` //adiciona tudo ao staging
-`git commit -m "mensagem"`
-`git push`
+`git add .` //adiciona tudo ao stage
+`git commit -m "mensagem"` //confirmar
+`git push` //envia
